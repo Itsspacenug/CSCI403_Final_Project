@@ -151,7 +151,7 @@ STATIONS = [
 # CONFIG
 # ─────────────────────────────────────────────
 OUTPUT_DIR  = "snowpack_data"
-OUTPUT_FILE = os.path.join(OUTPUT_DIR, "snotel_all_stations.csv")
+OUTPUT_FILE = os.path.join(OUTPUT_DIR, "snotel_all_stations_test.csv")
 DELAY_SEC   = 0.4   # polite delay between requests
 
 
